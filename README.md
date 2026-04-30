@@ -1,4 +1,4 @@
-# EcoTrack KZ 🇰🇿
+# EcoTrack KZ
 
 ## Project Concept
 EcoTrack KZ is an open-source platform tailored for Kazakhstan to map illegal landfills, monitor air quality (AQI) in cities like Almaty and Astana, and locate the nearest recycling points for plastic, glass, and batteries.
