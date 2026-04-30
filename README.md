@@ -23,4 +23,4 @@ The prototype logic can be found in the `/prototype` folder. It includes a basic
 
 
 ## AI Disclosure
-This project used Gemini for initial idea brainstorming and structuring the documentation[cite: 1].
+This project used Gemini for initial idea brainstorming and structuring the documentation.
