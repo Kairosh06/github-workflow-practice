@@ -21,7 +21,6 @@ The prototype logic can be found in the `/prototype` folder. It includes a basic
 - **Kainar**: Project Lead & Repository Manager , SDG Analysis & Documentation.
 - **Asset**:  UI/UX Prototype Designer , Market & SWOT Analysis
 
-*Note: Make sure everyone makes at least one commit!*
 
 ## AI Disclosure
 This project used Gemini for initial idea brainstorming and structuring the documentation[cite: 1].
